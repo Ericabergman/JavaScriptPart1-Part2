@@ -1,20 +1,20 @@
-let js = "awsome";
-if (js === "awsome") alert(" javascript is the best!");
+// let js = "awsome";
+// if (js === "awsome") alert(" javascript is the best!");
 
 
-20 + 10;
+// 20 + 10;
 
-console.log(20 + 8 + 23 - 10);
+// console.log(20 + 8 + 23 - 10);
 
-let  lesson = "first";
+// let  lesson = "first";
 
-"Erica"
-console.log ("Erica NY");
-console.log ("Erica NY");
-console.log ("Erica NY");
-console.log ("Erica NY");
+// "Erica"
+// console.log ("Erica NY");
+// console.log ("Erica NY");
+// console.log ("Erica NY");
+// console.log ("Erica NY");
 
-53
+// 53
 
 // let firstName camelcase
 
@@ -39,23 +39,23 @@ console.log ("Erica NY");
 
 
 
-true;
-console.log(true);
+// true;
+// console.log(true);
 
 
-let youwilllearnJs = true;
+// let youwilllearnJs = true;
 // console.log(youWilllearnJs);
 
-youWilllearnJs = false;
-console.log(youWilllearnJs);
+// youWilllearnJs = false;
+// console.log(youWilllearnJs);
 
-console.log(typeof "Erica"); // data typen och värdet Erica
-console.log(typeof 35); //data typen nummer och värdet 35
-console.log(typeof youWilllearnJs); // data typen boolean och värdet false
+// console.log(typeof "Erica"); // data typen och värdet Erica
+// console.log(typeof 35); //data typen nummer och värdet 35
+// console.log(typeof youWilllearnJs); // data typen boolean och värdet false
 
-console.log(typeof "Erica"); // data typen och värdet Erica
-console.log(typeof 35); //data typen nummer och värdet 35
-console.log(typeof youWilllearnJs); // data typen boolean och värdet false 
+// console.log(typeof "Erica"); // data typen och värdet Erica
+// console.log(typeof 35); //data typen nummer och värdet 35
+// console.log(typeof youWilllearnJs); // data typen boolean och värdet false 
 
 
 // + är en operater och - är en operatöer används för att se ett spesicift resultat eller värde
@@ -70,22 +70,22 @@ console.log(typeof youWilllearnJs); // data typen boolean och värdet false
 // let firstName = "Erica";
 // console.log(firstName);
 
-let firstName = "Sara";
+// let firstName = "Sara";
 
 
-console.log(firstName);
+// console.log(firstName);
 
 
 // let firstName = 35;
 
-let lastName = "johansson"
+// let lastName = "Bergman"
 
 
-let day; // declarerat en veriabel värdet=undefined
-console.log(day);
+// let day; // declarerat en veriabel värdet=undefined
+// console.log(day);
 
-day = "wensday"; //wensday anget värder tll veriabel
-console.log(day);
+// day = "wensday"; //wensday anget värder tll veriabel
+// console.log(day);
 
 
 
@@ -127,12 +127,12 @@ console.log(day);
 
 
 
-const me  = "Erica";
+// const me  = "Erica";
 // me = "Hej";
 
 
 
-const birthYear = 1994;
+// const birthYear = 1994;
 
 
 
@@ -173,15 +173,15 @@ const birthYear = 1994;
 
 
 
-const isFullAge = 15;
+// const isFullAge = 15;
 
 // const isFullAge = sarasAge >= 18;
-console.log(isFullAge);
-console.log(typeof isFullAge);
+// console.log(isFullAge);
+// console.log(typeof isFullAge);
 
-const now = 2020;
+// const now = 2020;
 
-console.log(now - 1991 > now - 1985);
+// console.log(now - 1991 > now - 1985);
 
 // 2020 - 1991 om resultatet är sörre än 2020 - 1989
 
@@ -437,11 +437,11 @@ använd !==
 
 
 //Gör detta först. gör en del i taget
-const result = 10 + 10 + 10; veriabler //är det med ljusblåt och döp dom beskrivande men kort och vettigt. //gör detta är bättre än att inte göra någon ting alls
-const result2 = 5 + 5 + 5; veriabler //gör detta är bättre än att inte göra någon ting alls
+// const result = 10 + 10 + 10; veriabler //är det med ljusblåt och döp dom beskrivande men kort och vettigt. //gör detta är bättre än att inte göra någon ting alls
+// const result2 = 5 + 5 + 5; veriabler //gör detta är bättre än att inte göra någon ting alls
 
-const avrageResult = result / 2;
-const avrageResult2 = result2 / 2;
+// const avrageResult = result / 2;
+// const avrageResult2 = result2 / 2;
 
 
 // Börja med att döpa veriabel med först const ellet let
@@ -449,14 +449,14 @@ const avrageResult2 = result2 / 2;
 // let sen veriabel
 
 
-console.log(result, result2);
-console.log(avrageResultat, avrageResultat)
+// console.log(result, result2);
+// console.log(avrageResultat, avrageResultat)
 
-if (avrageResult > avrageResult2) {
-    console.log("GRATTIS OG");
-} else {
-    console.log("Grattis ALLIANCE");
-}
+// if (avrageResult > avrageResult2) {
+//     console.log("GRATTIS OG");
+// } else {
+//     console.log("Grattis ALLIANCE");
+// }
 
 
 
